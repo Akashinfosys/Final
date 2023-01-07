@@ -18,6 +18,9 @@ public class Accept_input_from_user {
 		  int num2=s.nextInt();
 		  //Addition
 		  System.out.println(num1+num2);
+		
+		
+		System.out.println("Jamal bagh");
 	}
 
 }
